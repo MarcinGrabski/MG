@@ -1,0 +1,23 @@
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Release\Poltrone Electronics.exe.config
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Release\Poltrone Electronics.exe
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Release\Poltrone Electronics.pdb
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Release\EntityFramework.dll
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Release\EntityFramework.SqlServer.dll
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Release\itextsharp.dll
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Release\EntityFramework.xml
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Release\EntityFramework.SqlServer.xml
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Release\itextsharp.xml
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone_Electronics.DodajKlienta.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone_Electronics.Ekspertyza.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone_Electronics.ListaKlientow.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone_Electronics.Logowanie.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone_Electronics.OknoGlowne.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone_Electronics.Properties.Resources.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone_Electronics.RejestracjaUzytkownika.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone_Electronics.Zdjecia.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone_Electronics.Zlecenie.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone Electronics.csproj.GenerateResource.cache
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone Electronics.csproj.CoreCompileInputs.cache
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone Electronics.csproj.CopyComplete
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone Electronics.exe
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Release\Poltrone Electronics.pdb

@@ -1,0 +1,45 @@
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone Electronics.csprojAssemblyReference.cache
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.Properties.Resources.resources
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone Electronics.csproj.GenerateResource.cache
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone Electronics.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\bin\Debug\Poltrone Electronics.exe.config
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\bin\Debug\Poltrone Electronics.exe
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\bin\Debug\Poltrone Electronics.pdb
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone Electronics.exe
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone Electronics.pdb
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.Logowanie.resources
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.RejestracjaUzytkownika.resources
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.OknoGlowne.resources
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.DodajKlienta.resources
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.Zlecenie.resources
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.ListaKlientow.resources
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\bin\Debug\EntityFramework.dll
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\bin\Debug\EntityFramework.xml
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone Electronics.csproj.CopyComplete
+C:\Users\Maciej\source\repos\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.Zdjecia.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Debug\Poltrone Electronics.exe.config
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Debug\Poltrone Electronics.exe
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Debug\Poltrone Electronics.pdb
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Debug\EntityFramework.dll
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Debug\EntityFramework.xml
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone Electronics.csprojAssemblyReference.cache
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.DodajKlienta.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.ListaKlientow.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.Logowanie.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.OknoGlowne.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.Properties.Resources.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.RejestracjaUzytkownika.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.Zdjecia.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.Zlecenie.resources
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone Electronics.csproj.GenerateResource.cache
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone Electronics.csproj.CoreCompileInputs.cache
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone Electronics.csproj.CopyComplete
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone Electronics.exe
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone Electronics.pdb
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Debug\itextsharp.dll
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\bin\Debug\itextsharp.xml
+F:\Programowanie\Poltrone Electronics\Poltrone Electronics\obj\Debug\Poltrone_Electronics.Ekspertyza.resources
